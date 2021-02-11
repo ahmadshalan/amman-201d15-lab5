@@ -70,6 +70,7 @@ function sumAndMultiply(a, b, c) {
 
     let output2 = multiply(a,b);
     
+    
     output2 = multiply(output2[0],c);
     console.log(output2[0]);
 
